@@ -115,9 +115,15 @@ iImage = iImage + 127
 print(iImage)
 cv2.imwrite('Result.jpg',iImage)  
 
+
+print("hello")
 '''
 cv2.imshow('1', cv2.imread("LENNA.JPG"))
 cv2.imshow('2', cv2.imread("Result.jpg"))
 y = input("do you want to kill all the windows?")
 #cv2.waitKey()
 cv2.destroyAllWindows() '''
+
+
+
+"""Sample"""
